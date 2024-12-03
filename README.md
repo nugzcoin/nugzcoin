@@ -36,12 +36,11 @@
             <h2>Roadmap</h2>
             <ul>
                 <li>🔸 Phase 1: Nugget Concept and Meme Development</li>
-                <li>🔸 Phase 2: Token Launch and Community Growth</li>
-                <li>🔸 Phase 3: Merchandise and NFTs</li>
-                <li>🔸 Phase 4: Singing Nuggy World Tour!</li>
+                <li>🔸 Phase 2: Token Launch and Community Growth</li
+                <li>🔸 Phase 3: Singing Nuggy World Tour!</li>
             </ul>
-        </section>
-        <section id="team">
+        </section>https://www.youtube.com/shorts/9GCzOAHGgQ8
+        <section id="team">Metnem Tiga
             <h2>Our Team</h2>
             <p>Behind every great nugget is a team of seasoned chefs, crypto enthusiasts, and meme lovers.</p>
         </section>
