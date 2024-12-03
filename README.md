@@ -3,57 +3,68 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NuggyCoin - The Singing Chicken Nugget</title>
+    <title>NuggyCoin</title>
     <link rel="stylesheet" href="styles.css">
-    <link rel="icon" href="assets/nugget-icon.png">
 </head>
 <body>
     <header>
-        <div class="logo">
-            <img src="assets/nugget-logo.png" alt="NuggyCoin Logo">
-            <h1>NuggyCoin</h1>
-        </div>
+        <h1>NuggzCoin 🎤🐔</h1>
         <nav>
-            <ul>
-                <li><a href="#about">About</a></li>
-                <li><a href="#roadmap">Roadmap</a></li>
-                <li><a href="#team">Team</a></li>
-                <li><a href="#buy">Buy Now</a></li>
-            </ul>
+            <a href="#about">About</a>
+            <a href="#roadmap">Roadmap</a>
+            <a href="#buy">Buy Now</a>
         </nav>
     </header>
     <main>
         <section id="hero">
-            <h2>The Crypto Nugget That Sings to the Moon 🎤🐔</h2>
-            <p>Join the NuggyNation and ride the Lambo dream with Serbia 🇷🇸 and Jordan 🇯🇴 vibes!</p>
-            <button onclick="scrollToSection('buy')">Get NuggyCoin</button>
+            <h2>The Singing Nugget to the Moon!</h2>
+            <p>Fun, laughs, and Lambo dreams await! 🚀</p>
+            <button>Buy NuggyCoin</button>
         </section>
         <section id="about">
-            <h2>About NuggyCoin</h2>
-            <p>NuggyCoin is a meme coin with a twist—a singing chicken nugget! Built for laughs, fun, and community. Let’s sing to the moon together!</p>
+            <h3>What is NuggzCoin?</h3>
+            <p>A meme coin inspired by a singing chicken nugget—because why not?</p>
         </section>
         <section id="roadmap">
-            <h2>Roadmap</h2>
-            <ul>
-                <li>🔸 Phase 1: Nugget Concept and Meme Development</li>
-                <li>🔸 Phase 2: Token Launch and Community Growth</li>
-                <li>🔸 Phase 3: Merchandise and NFTs</li>
-                <li>🔸 Phase 4: Singing Nuggy World Tour!</li>
-            </ul>
-        </section>
-        <section id="team">
-            <h2>Our Team</h2>
-            <p>Behind every great nugget is a team of seasoned chefs, crypto enthusiasts, and meme lovers.</p>
-        </section>
-        <section id="buy">
-            <h2>Buy NuggyCoin</h2>
-            <p>Get your share of NuggyCoin today and join the NuggyNation!</p>
-            <button>Buy Now</button>
+            <h3>Roadmap</h3>
+            <p>Phase 1: Launch 🐔 | Phase 2: NFTs 💎 | Phase 3: World Tour 🎤</p>
         </section>
     </main>
-    <footer>
-        <p>© 2024 NuggyCoin. All rights reserved. 🌟</p>
-    </footer>
-    <script src="script.js"></script>
+    <footer>© 2024 NuggyCoin</footer>
 </body>
 </html>
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    background: linear-gradient(to right, #f9d423, #ff4e50);
+    color: #333;
+}
+
+header {
+    background: #ff4e50;
+    color: white;
+    padding: 10px;
+}
+
+nav a {
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    background: #f9d423;
+    border: none;
+    color: #333;
+    cursor: pointer;
+}
+
+         
+       
+   
