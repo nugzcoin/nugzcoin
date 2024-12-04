@@ -1,14 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head>🎤🐔 Welcome to NuggyCoin: The Singing Chicken Nugget of Crypto! 💸
+Where memes meet moonshots, and every nugget sings a tune to success! 🚀
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="nugzcoin$" content="width=device-width, initial-scale=1.0">
     <title>NuggyCoin</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-        <h1>NuggzCoin 🎤🐔</h1>
+    <header>🎤🐔 Welcome to NuggyCoin: The Singing Chicken Nugget of Crypto! 💸
+Where memes meet moonshots, and every nugget sings a tune to success! 🚀
+        <h1>NuggzCoin 🎤🐔</h1>https://www.youtube.com/shorts/9GCzOAHGgQ8
         <nav>
             <a href="#about">About</a>
             <a href="#roadmap">Roadmap</a>
