@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>🎤🐔 Welcome to NuggyCoin: The Singing Chicken Nugget of Crypto! 💸
+    
 Where memes meet moonshots, and every nugget sings a tune to success! 🚀
+
     <meta charset="UTF-8">
     <meta name="nugzcoin$" content="width=device-width, initial-scale=1.0">
     <title>NuggyCoin</title>
@@ -63,7 +65,7 @@ button {
     padding: 10px 20px;
     background: #f9d423;
     border: none;
-    color: #333;
+    color: #333;yellow
     cursor: pointer;
 }
 
